@@ -12,4 +12,19 @@ public class matematika {
         return bil1 + bil2;
         
     }
+    
+    double setpengurangan(){
+        return bil1 - bil2;
+        
+    }
+
+    double setperkalian(){
+        return bil1 * bil2;
+       
+    }
+    
+    double setpembagian(){
+        return bil1 / bil2;
+        
+    }
 }
